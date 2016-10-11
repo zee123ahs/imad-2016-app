@@ -20,7 +20,7 @@ body {
     height: 200px;
 }
 
-container{
+.container{
     font-family: sans-serif;
     padding: 80px;
     color: green;
